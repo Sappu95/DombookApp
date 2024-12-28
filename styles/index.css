@@ -1,0 +1,25 @@
+form{
+    display: flex;
+    border: 10px;
+    color: red;
+     align-items:column ;
+     justify-content: center;
+     gap: 10px;
+     margin: auto;
+     padding: 10px;
+     background-color: tomato;
+     
+
+
+}
+#nav{
+    width: 50%;
+    margin: 10px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: azure;
+    height: auto;
+}
